@@ -1,3 +1,12 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 # All The Fabric 3 | Patch Notes
-<h3>Be sure to always backup your world(s) before updating!</h3>
+## Be sure to always backup your world(s) before updating!
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>V1</h1>
+
+Initial BETA Release.
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Fabric-3)
+
+---------------------------------------------------------------------------------
