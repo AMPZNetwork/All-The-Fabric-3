@@ -78,6 +78,7 @@
 + Awesome Dungeon The End Edition
 + Nullscape ~ End Reborn
 + YUNG's Better Strongholds
++ YUNG's Better Dungeons
 + YUNG's API
 + Load My Resources
 
