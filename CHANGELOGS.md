@@ -94,6 +94,8 @@ Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNet
 ---------------------------------------------------------------------------------
 <h2>V1</h2>
 
+_Minecraft 1.18.1_ | _Fabric Loader 0.12.12_ | _[Modlist](https://www.technicpack.net/modpack/all-the-fabric-3.1898987/mods)_
+
 Initial BETA Release.
 
 
