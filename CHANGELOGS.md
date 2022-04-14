@@ -1,6 +1,68 @@
  
 # All The Fabric 3 | Patch Notes
 ---------------------------------------------------------------------------------
+<h2>V3</h2>
+
+_Minecraft 1.18.1_ | _Fabric Loader 0.13.3_
+
+
+**Updated:**
++ Applied Energistics 2 Wireless Terminals (10.1.1-beta.5 → 10.1.1-beta.6)
++ Architectury API (3.7.22 → 3.7.42)
++ BCLib (1.3.4 → 1.3.5)
++ BetterNether (6.0.10 → 6.0.11)
++ Bewitchment (14 → 15)
++ Collective (4.9 → 4.9 BETA)
++ Comforts (1.0.2 → 1.0.3)
++ Croptopia (1.8.1 → 1.8.3)
++ Fabric API (0.46.4 → 0.46.6)
++ Fabric Language Kotlin (1.7.1 → 1.7.2)
++ FancyMenu (2.6.3 → 2.6.4)
++ Indium (1.0.2-alpha2 → 1.0.2-alpha3)
++ Industrial Revolution (1.13.6 → 1.13.8)
++ Inventory Sorting (1.8.4 → 1.8.5)
++ Konkrete (1.3.3 → 1.3.3-1)
++ MC Dungeons Armors (2.0.1 → 2.0.5)
++ MC Dungeons Weapons (4.0.4 → 4.2.5)
++ Paradise Lost (1.6.5.3 → 1.6.8)
++ Pehkui (3.1.0 → 3.2.2)
++ Polymorph (0.0.19 → 0.0.20)
++ Roughly Enough Items (7.3.432 → 7.4.446)
++ Simple Backpack (1.2.30 → 1.2.31.1)
++ Trinkets (3.2.0 → 3.2.1)
++ Universal Graves (2.0.0-rc.4 → 2.0.0-rc.5)
++ WTHIT (4.5.2 → 4.5.5)
++ Xaero's Minimap (22.2.0.1 → 22.3.0)
+
+**Changed/Fixed**
++ Asset loading times improved by about 6x thanks to caching all of the game's content<br>
+(Cache will be done on first launch therefore making it significantly slower).
++ Enabled cheating mode for Roughly Enough Items when a user is in creative mode.
++ Improved the custom menu music behavour.
++ Changed Roughly Enough Items favorite keybind to * and show recipe to V.
++ Removed "Recommended Pack" (get the new link on our Discord Server).
++ Removed the ability to download server files directly on ATLauncher (get the files from our CurseForge pack page).
+
+**Added:**
++ BisectHosting Server Integration Menu
++ DashLoader
++ Xaero's Minimap - Modded Support Resource Pack
++ LambDynamicLights
++ Continuity
++ Not Enough Crashes
++ YUNG's Better Mineshafts
+
+**Removed:**
++ Awesome Dungeon
++ Awesome Dungeon Nether Edition
++ Awesome Dungeon Ocean Edition
++ Library Ferret
++ Impersonate
++ Simple Shelves
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Fabric-3)
+
+---------------------------------------------------------------------------------
 <h2>V2</h2>
 
 _Minecraft 1.18.1_ | _Fabric Loader 0.13.3_ | _[Modlist](https://www.technicpack.net/modpack/all-the-fabric-3.1898987/mods)_
