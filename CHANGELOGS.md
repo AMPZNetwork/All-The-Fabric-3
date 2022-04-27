@@ -88,7 +88,6 @@ _Minecraft 1.18.2_ | _Fabric Loader 0.14.3_
 + Phosphor
 
 **Removed:**
-+ Amplified Nether
 + Wolves With Armor
 + Fabric Seasons
 + Craftable Horse Armour & Saddle
