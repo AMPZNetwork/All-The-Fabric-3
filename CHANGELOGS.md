@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------
 <h2>V4 - THE 1.18.2 UPDATE!</h2>
 
-_Minecraft 1.18.2_ | _Fabric Loader 0.14.3_
+_Minecraft 1.18.2_ | _Fabric Loader 0.14.2_
 
 
 **Updated:**
@@ -37,7 +37,7 @@ _Minecraft 1.18.2_ | _Fabric Loader 0.14.3_
 + Fabric Language Kotlin (1.7.2 → 1.7.4)
 + Fabric Waystones (2.4.1 → 2.5.0)
 + FancyMenu (2.6.4 → 2.6.6)
-+ Fabric Loader (1.13.3 → 1.14.3)
++ Fabric Loader (1.13.3 → 1.14.2)
 + Fabric API (0.46.6 → 0.5.1.1)
 + Horizontal Panes (1.1.6 → 1.1.7)
 + Indium (1.0.2-alpha3 → 1.0.3)
