@@ -1,5 +1,89 @@
- 
+<p align="center">
+| <img src="https://www.bisecthosting.com/images/CF/All_The_Fabric_3/BH_ATFC3_PromoCard.png" alt="Get your server today!"  width="1920" height="200"></a>|
+</p>
+
 # All The Fabric 3 | Patch Notes
+---------------------------------------------------------------------------------
+<h2>V5</h2>
+
+_Minecraft 1.18.2_ | _Fabric Loader 0.14.7_
+
+**Updated:**
++ Applied Energistics 2 (11.0.0-alpha.5 → 11.1.2)
++ Applied Energistics 2 Wireless Terminals (11.0.0-alpha.2 → 11.1.0)
++ Architect's Palette (1.7 → 2.1)
++ Architectury API (4.4.68 → 4.4.71)
++ Architectury API UNUSED (4.4.56 → 4.2.50)
++ bad packets (0.1.1 → 0.1.2) 
++ BCLib (1.4.4 → 1.4.7)
++ Balm (3.0.0 → 3.1.0+0)
++ BetterEnd (1.1.0 → 1.1.1)
++ BetterNether (6.1.0 → 6.1.2)
++ Bewitchment (17 → 22)
++ Chisels & Bits (1.2.85 → 1.2.90)
++ Cloth Config API (6.2.57 → 6.2.62)
++ Collective (4.26 → 4.27)
++ Continuity (1.1.0 → 2.0.0)
++ Cosmetic Armor (1.3.0 → 1.3.1)
++ Croptopia (2.0.0 → 2.0.5)
++ DragonLoot (1.0.10 → 1.1.0)
++ Drippy Loading Screen (1.5.1 → 1.6.3)
++ Default Options (14.1.0 → 14.1.1)
++ Fabric API (0.51.1 → 0.55.1)
++ Fabric Language Kotlin (1.7.4 → 1.8.0)
++ Fabric Waystones (2.5.0 → 2.5.4)
++ FancyMenu (2.6.6 → 2.7.2-1)
++ Inventory Sorting (1.8.6 → 1.8.8)
++ Iris Shaders (1.2.4 → 1.2.5)
++ Iron Chests (1.5.6 → 1.7.0)
++ JourneyMap (5.8.2 → 5.8.5)
++ Lithium (0.7.9 → 0.7.10)
++ Macaw's Bridges (2.0.2 → 2.0.3)
++ MC Dungeons Armors (2.0.5 → 2.0.6)
++ MC Dungeons Weapons (4.3.1 → 4.4.0)
++ Mod Menu (3.2.1 → 3.2.2)
++ More Axolotl Variants Mod (1.0.7a → 1.0.8a)
++ oωo (0.7.0 → 0.7.2)
++ Paradise Lost (1.6.8 → 1.6.9)
++ Patchouli (67 → 69)
++ Pehkui (3.2.2 → 3.3.2)
++ PlayerAbilityLib (1.5.0 → 1.5.1)
++ Polymorph (0.0.20 → 0.0.21)
++ Reese's Sodium Options (1.4.2 → 1.4.3)
++ Roughly Enough Items Fabric (8.1.457 → 8.2.479)
++ Simple RPC (3.0.0 → 3.0.1)
++ Simple Backpack (1.2.35 → 1.2.37)
++ Sodium Extra (0.4.3 → 0.4.5)
++ Trinkets (3.3.0 → 3.3.1)
++ Universal Graves (2.0.0 → 2.0.3)
++ WTHIT (4.9.0 → 4.10.3)
+
+**Changed/Fixed**
++ Added the ability to craft horse armor [Example](https://i.imgur.com/NoZsFzi.png).
++ Added the ability to craft stairs back into blocks [Example](https://i.imgur.com/Ip4sJtY.png).
++ Added the ability to to uncraft wool blocks back into string [Example](https://i.imgur.com/CrFqJH4.png).
++ Fixed a crash for Apple M1 users.
++ Fixed a crash with REI when typing **"iro"** into it's search bar [#2](https://github.com/AMPZNetwork/All-The-Fabric-3/issues/2).
++ Fixed Discord logos now showing when in a multiplayer server.
++ Fixed server starter not downloading the modpack.
++ Waystones now only spawn 1 per village.
+
+**Added:**
++ The Twilight Forest
++ Fabric Seasons
++ Dimension Fix
++ Mouse Tweaks
++ Auudio
+
+**Removed:**
++ DashLoader
++ Bits And Chisels
++ MmmMmmMmmMmm (Target Dummy)
++ Cherished Worlds
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Fabric-3)
+
 ---------------------------------------------------------------------------------
 <h2>V4 - THE 1.18.2 UPDATE!</h2>
 
