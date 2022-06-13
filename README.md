@@ -6,9 +6,9 @@
 This is the official repository and issue-tracker for All The Fabric 3
     
 #### Modpack Links: 
-+ https://www.curseforge.com/minecraft/modpacks/all-the-fabric-3
-+ https://www.technicpack.net/modpack/all-the-fabric-3.1898987
-+ https://atlauncher.com/pack/AllTheFabric3
++ [CurseForge](https://www.curseforge.com/minecraft/modpacks/all-the-fabric-3)
++ [Technic Launcher](https://www.technicpack.net/modpack/all-the-fabric-3.1898987)
++ [ATLauncher](https://atlauncher.com/pack/AllTheFabric3)
   
 Need Help?
 ======
