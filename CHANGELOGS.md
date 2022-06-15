@@ -29,7 +29,7 @@ _Minecraft 1.18.2_ | _Fabric Loader 0.14.7_
 + DragonLoot (1.0.10 → 1.1.0)
 + Drippy Loading Screen (1.5.1 → 1.6.3)
 + Default Options (14.1.0 → 14.1.1)
-+ Fabric API (0.51.1 → 0.55.1)
++ Fabric API (0.51.1 → 0.56.0)
 + Fabric Language Kotlin (1.7.4 → 1.8.0)
 + Fabric Waystones (2.5.0 → 2.5.4)
 + FancyMenu (2.6.6 → 2.7.2-1)
@@ -69,7 +69,6 @@ _Minecraft 1.18.2_ | _Fabric Loader 0.14.7_
 + Waystones now only spawn 1 per village.
 
 **Added:**
-+ The Twilight Forest
 + Fabric Seasons
 + Dimension Fix
 + Mouse Tweaks
