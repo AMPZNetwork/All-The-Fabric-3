@@ -4,6 +4,88 @@
 
 # All The Fabric 3 | Patch Notes
 ---------------------------------------------------------------------------------
+<h2>V6</h2>
+
+<h4>All The Fabric 4 for 1.19.2 is now available!</h4>
+<h4>This means we will be providing support for this pack for 6 months</h4>
+
+_Minecraft 1.18.2_ | _Fabric Loader 0.14.10_
+
+**Updated:**
++ Applied Energistics 2 (11.1.2 → 11.6.2)
++ Applied Energistics 2 Wireless Terminals (11.1.0 → 11.6.3)
++ Amplified Nether (v1.1.1 → v1.1)
++ Architect's Palette (2.1 → 2.2)
++ Architectury API (4.4.71 → 4.10.86)
++ Better Advancements (0.2.0.129 → 0.2.1.132)
++ Bewitchment (22 → 23)
++ Balm (3.1.0+0 → 3.2.0+0)
++ Chisels & Bits (1.2.90 → 1.2.114)
++ Clumps (8.0.0+8 → 8.0.0+15)
++ Collective (4.27 → 5.14)
++ Controlling (9.0+19 → 9.0+22)
++ Continuity (2.0.0 → 2.0.1)
++ Croptopia (2.0.5 → 2.1.2)
++ Comforts (1.1.2 → 1.1.3)
++ Cloth Config API (6.2.62 → 6.4.90)
++ Drippy Loading Screen (1.6.3 → 1.6.5)
++ Fabric Loader (0.14.7 → 0.14.9)
++ Fabric API (0.56.0 → 0.59.1)
++ Fabric Language Kotlin (1.8.0 → 1.8.5)
++ Fabric Waystones (2.5.4 → 2.5.5)
++ FancyMenu (2.7.2-1 → 2.12.6)
++ Indium (1.0.3 → 1.0.7)
++ Iris Shaders (1.2.5 → 1.4.0)
++ Iron Chests (1.7.0 → 1.7.4)
++ Konkrete (1.3.3-1 → 1.5.3)
++ Macaw's Bridges (2.0.3 → 2.0.5)
++ Macaw's Roofs (2.1.2 → 2.2.1)
++ MC Dungeons Armors (2.0.6 → 2.0.7)
++ MC Dungeons Weapons (4.4.0 → 5.0.4)
++ ModMenu (3.2.2 → 3.2.4)
++ Patchouli (69 → 71.1)
++ Pehkui (3.3.2 → 3.6.0)
++ Prism (1.0.1 → 1.0.3)
++ Reese's Sodium Options (1.4.3 → 1.4.7)
++ Roughly Enough Items Fabric/Forge (8.2.479 → 8.3.564)
++ Simple Discord RPC (3.0.1 → 3.1.1)
++ Terralith (v2.2.1a → v2.1.2 )
+
+**Changed/Fixed**
++ Fixed datagen crash.
++ Fix emissives on CTM overlays not using the correct layer.
++ Fixed inventory sorting buttons overlapping on some GUI's.
++ Rail bridges can now consume a redstone torch to be powered.
++ Enabled continuity connected resource pack by default.
++ Disabled iris shaders update message.
++ Re-Designed Pause Menu.
++ General Performance Improvments.
+
+**Added:**
++ The Twilight Forest
++ Almost Unified
++ RightClickHarvest
++ MemoryLeakFix
++ Blur
++ Fix Experience Bug
++ Legendary Tooltips
++ Iceberg
++ Jade
++ Traveler's Backpack
+
+**Removed:**
++ WTHIT
++ Break Progress
++ Hwyla Addon Horse Info
++ Cloth Config API (UNUSED)
++ Earth2Java
++ Stoneholm, Underground Villages
++ Simple Backpack
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Fabric-3)
+
+---------------------------------------------------------------------------------
 <h2>V5</h2>
 
 _Minecraft 1.18.2_ | _Fabric Loader 0.14.7_
