@@ -29,7 +29,7 @@ _Minecraft 1.18.2_ | _Fabric Loader 0.14.10_
 + Comforts (1.1.2 → 1.1.3)
 + Cloth Config API (6.2.62 → 6.4.90)
 + Drippy Loading Screen (1.6.3 → 1.6.5)
-+ Fabric Loader (0.14.7 → 0.14.9)
++ Fabric Loader (0.14.7 → 0.14.10)
 + Fabric API (0.56.0 → 0.59.1)
 + Fabric Language Kotlin (1.8.0 → 1.8.5)
 + Fabric Waystones (2.5.4 → 2.5.5)
